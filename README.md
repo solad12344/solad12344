@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Soyebal Saad Adnan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm a passionate data professional with a strong background in data analytics, machine learning, and data science. Currently pursuing a Master's in Data Science and Data Analytics at the University of Calgary, I'm dedicated to harnessing the power of data to drive informed decisions and uncover valuable insights.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solad12344&label=Profile%20views&color=0e75b6&style=flat" alt="solad12344" /> </p>
 
 - 🔭 I’m currently working on **Build a Conversational Chatbot With Langchain and LLMs**
 
-- 📫 How to reach me **solad12344@gmail.com**
+- 📫 How to reach me **solad12344@gmail.com** || **📱 647-570-4095**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1W-Vr1e0Pt9DE7WaemKLOOqOJxiYpXl3P/edit?usp=sharing&ouid=117609416357791013808&rtpof=true&sd=true](https://docs.google.com/document/d/1W-Vr1e0Pt9DE7WaemKLOOqOJxiYpXl3P/edit?usp=sharing&ouid=117609416357791013808&rtpof=true&sd=true)
 
