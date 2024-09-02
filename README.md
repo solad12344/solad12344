@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **solad12344@gmail.com** || **📱 647-570-4095**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1W-Vr1e0Pt9DE7WaemKLOOqOJxiYpXl3P/edit?usp=sharing&ouid=117609416357791013808&rtpof=true&sd=true](https://docs.google.com/document/d/1W-Vr1e0Pt9DE7WaemKLOOqOJxiYpXl3P/edit?usp=sharing&ouid=117609416357791013808&rtpof=true&sd=true)
+- 📄 Here are some of the most *Interesting* Projects I worked on [https://docs.google.com/document/d/1W-Vr1e0Pt9DE7WaemKLOOqOJxiYpXl3P/edit?usp=sharing&ouid=117609416357791013808&rtpof=true&sd=true](https://docs.google.com/document/d/1W-Vr1e0Pt9DE7WaemKLOOqOJxiYpXl3P/edit?usp=sharing&ouid=117609416357791013808&rtpof=true&sd=true)
+- I will be adding those projects as github entries soon with every detail so please be patient!
 
 #
 
