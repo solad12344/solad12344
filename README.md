@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soyebal Saad Adnan</h1>
-<h3 align="left">I'm a passionate data professional with a strong background in data analytics, machine learning, and data science. Currently pursuing a Master's in Data Science and Data Analytics at the University of Calgary, I'm dedicated to harnessing the power of data to drive informed decisions and uncover valuable insights.</h3>
+<h3 align="left">I'm a passionate data professional with a strong background in data analytics, machine learning, and data science. Currently a recent graduate of Master's in Data Science and Data Analytics at the University of Calgary, I'm dedicated to harnessing the power of data to drive informed decisions and uncover valuable insights.</h3>
 
 ---
 
